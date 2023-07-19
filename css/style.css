@@ -55,22 +55,6 @@ p {
     transition-delay: .32s;
 }
 
-.faceit {
-    opacity: 0;
-    transform: translateY(80px);
-    transition: 1s;
-    transition-delay: .72s;
-}
-
-.faceit-icon {
-    opacity: .36;
-    transition: .32s
-}
-
-.faceit-icon:hover {
-    opacity: .9;
-}
-
 .social {
     list-style-type: none;
     display: flex;
